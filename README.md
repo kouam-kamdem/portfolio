@@ -18,3 +18,6 @@ Les fondations du HTML et du CSS : sémantique, box model, Flexbox, Grid, respon
 
 ## Comment lancer le projet
 ouvrir index.html dans le navigateur (ou via live server)
+
+## Auteur
+Ulrich Kouam
