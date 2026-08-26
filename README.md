@@ -21,3 +21,6 @@ ouvrir index.html dans le navigateur (ou via live server)
 
 ## Auteur
 Ulrich Kouam
+
+## Compétences
+HTML, CSS, Flexbox, Grid, Responsive, Git
